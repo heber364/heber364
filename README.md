@@ -1,6 +1,6 @@
 - 👋 Olá, sou heber
 - 👀 Estou interessado em aprender novas tecnologias
-- 🌱 Atualmente estou aprendendo html + css + js
+- 🌱 Full Stack em formação
 
 <!---
 heber364/heber364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
