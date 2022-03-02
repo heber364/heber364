@@ -1,23 +1,41 @@
-<h1 style="color:#d9a525"> Opa! Eu sou o Héber Silva. </h1>
-<div align="center">
-  <a href="https://github.com/heber364">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heber364&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&title_color=d9a525&locale=pt-br&icon_color=d9a525&bg_color=DEG,070709,161b18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heber364&layout=compact&langs_count=7&theme=codeSTACKr&title_color=d9a525&locale=pt-br&icon_color=d9a525&bg_color=DEG,161b18,070709"/>
-</div>
-  
-<div align="center" style="display:flex;align-itens:center;justify-content:center" >
-    <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>  
-    <img src="https://img.icons8.com/color/40/000000/css3.png" />
-    <img src="https://img.icons8.com/color/40/000000/javascript--v2.png"  />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="37"/>
-</div>
-  
-##
-  
-<div style="margin-top:2rem"> 
+# Opa, eu sou o Héber! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
+
+<div style="display:flex;align-itens:center;gap:0.2rem"> 
+<a href="https://www.linkedin.com/in/h%C3%A9ber-lima-silva-2796ba179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=73998426857"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
 <a href="https://www.instagram.com/heber_limas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:heberlimasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/h%C3%A9ber-lima-silva-2796ba179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+
+- 💻 Desenvolvedor front-end em formação
+- 📚 Cursando Engenharia Elétrica na UFES
+- 💼 Consultor de Tecnologia da EJ CT Junior
+
+<br>
+
+## 🔍 Análises do Github
+
+<div align="center" style="display:grid;grid-template-columns:1fr 1fr;border-top:solid 2px #42404a;padding-top:1rem">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heber364&theme=codeSTACKr&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heber364&layout=compact&langs_count=7&theme=codeSTACKr"/>
+
+</div>
+
+<br><br>
+
+## 🛠️ Tecnologias e ferramentas mais usadas
+
+
+<div align="center" style="display:flex;align-itens:center;gap:0.2rem;padding-top:1rem;border-top:solid 2px #42404a" >
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+<br>
 
   ![Snake animation](https://github.com/heber364/heber364/blob/output/github-contribution-grid-snake.svg)
