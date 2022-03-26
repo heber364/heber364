@@ -18,8 +18,8 @@
 ## 🔍 Análises do Github
 
 <div align="center" style="display:grid;grid-template-columns:1fr 1fr;border-top:solid 2px #42404a;padding-top:1rem">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heber364&theme=codeSTACKr&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heber364&layout=compact&langs_count=7&theme=codeSTACKr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heber364&theme=tokyonight&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heber364&layout=compact&langs_count=7&theme=tokyonight "/>
 
 </div>
 
