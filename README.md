@@ -1,4 +1,4 @@
-# Opa, eu sou o Héber! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
+# Hi, Héber here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
 
 <div style="display:flex;align-itens:center;gap:0.2rem"> 
 <a href="https://www.linkedin.com/in/h%C3%A9ber-lima-silva-2796ba179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" target="_blank"></a>
@@ -8,7 +8,7 @@
 
 - 💻 Front-end developer in development, currently working with ReactJs, Typescript and Firebase.
 - 📚 Electrical Engineering Student at Ufes
-- 💼 Consultor de Tecnologia da EJ CT Junior
+- 💼 Technology Consultant at EJ CT Junior
 
 <br>
 
@@ -28,10 +28,7 @@
 <div align="center" style="display:flex;align-itens:center;gap:0.2rem;padding-top:1rem;border-top:solid 2px #42404a" >
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </div>
 <br>
 
