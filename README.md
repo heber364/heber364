@@ -1,9 +1,9 @@
 # Hi, Héber here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
 <br>
 
-- 💻 Front-end developer in development, currently working with ReactJs, Typescript, Chakra UI and Firebase.
-- 📚 Electrical Engineering Student at Ufes
-- 💼 Technology Consultant at EJ CT Junior
+- 💻 Front-end developer, but I'm learning Node.js to become a fullstack.
+- 📚 I'm an Electrical Engineering student at Ufes.
+- 💼 Software developer Intern | EloGroup
 
 <br>
 
