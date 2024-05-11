@@ -1,7 +1,7 @@
 # Hi, Héber here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
 <br>
 
-- 💻 Front-end developer, but I'm learning Node.js to become a fullstack.
+- 💻 Fullstack developer. React & Node Js
 - 📚 I'm an Electrical Engineering student at Ufes.
 - 💼 Software developer Intern | EloGroup
 
